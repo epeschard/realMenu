@@ -1,0 +1,6 @@
+framework module Pods_realMenu {
+  umbrella header "Pods-realMenu-umbrella.h"
+
+  export *
+  module * { export * }
+}

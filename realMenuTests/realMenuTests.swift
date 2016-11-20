@@ -7,7 +7,7 @@
 //
 
 import XCTest
-@testable import realMenu
+//@testable import realMenu
 
 class realMenuTests: XCTestCase {
     
